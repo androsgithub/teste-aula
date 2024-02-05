@@ -1,0 +1,13 @@
+1. Abra o cmd
+2. encontre a pasta para ser criado um repositorio
+3. Dentro da pasta de: git init
+4. Escolha o arquivo adicionado com um git add item.format
+5. para gerar um commit digite "git commit -m "Primeiro commit"" como voce pode ver
+ele pode ter um comentario associado a ele.
+6. configure o usuario com um 'git config --global user.email "you@example.com"'
+7. Configure o repositorio
+	-Crie um repositorio no git
+	-Pegue seu link e insira no cmd com o comando
+	-git remote add origin https://github.com/androsgithub/"repositorio"
+8.Crie uma ramificação, uma branch com
+	-git branch -m nome
